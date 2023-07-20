@@ -2,37 +2,49 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Bug
+--
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+# Summary
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+<!-- What is happening? -->
+<!-- Add any screenshots, links, etc that may help with debugging -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Expected Result
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+<!-- Describe the expected result -->
+<!-- Add any screenshots, links, etc that may help with debugging -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Actual Result
 
-**Additional context**
-Add any other context about the problem here.
+<!-- Describe the actual result -->
+<!-- Add any screenshots, links, etc that may help with debugging -->
+
+## Steps to Reproduce
+
+<!-- List in steps how to reproduce this bug -->
+
+## How to Test/QA
+
+<!-- List in steps how to reproduce this bug -->
+
+### Effected Environments
+
+- **Effected Environments:**
+- [ ] production
+- [ ] qa
+- [ ] staging
+
+### Additional Information
+
+<!-- Are there improvements that may go further than this issue/repo? -->
+<!-- Are there any related tech debt or bug issues? -->
+<!-- Is there something to keep in mind for the future? -->
+
+/label ~"Bug"
+/cc @erichanna
