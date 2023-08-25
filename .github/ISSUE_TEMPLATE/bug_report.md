@@ -27,9 +27,11 @@ assignees: ''
 
 ### Effected Environments
 
-- [ ] production
-- [ ] qa
-- [ ] staging
+<!-- Delete those not affected --> 
+
+* production
+* qa
+* staging
 
 ### Additional Information
 
